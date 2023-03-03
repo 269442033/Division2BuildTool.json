@@ -71,8 +71,8 @@
     "KneepadsAttribute4": -1,
     "KneepadsTalent": 0,
     "Name": "猎人",
-    "Color": "#FFFFFF",
-    "Note": null
+    "Color": "#FF0000",
+    "Note": "猎人"
   },
   {
     "IsNewStyle": false,
