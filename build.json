@@ -3,7 +3,7 @@
     "Note": null,
     "IsNewStyle": false,
     "Specialization": 1,
-    "Skill1": 3,
+    "Skill1": 4,
     "Skill2": 5,
     "Weapon1IsVisable": false,
     "Weapon1Named": 0,
@@ -75,7 +75,7 @@
     "Color": "#FFFFFF"
   },
   {
-    "Note": null,
+    "Note": "耶尔、戈兰、临时三选一",
     "IsNewStyle": false,
     "Specialization": 3,
     "Skill1": 35,
