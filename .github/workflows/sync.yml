@@ -24,7 +24,7 @@ jobs:
 
     - name: Response
       run: |
-        echo ${{ steps.myRequest.outputs.response }} > gear.json
+        echo ${{ steps.myRequest.outputs.response }}
 
     - name: Upload
       uses: actions/upload-artifact@v3
