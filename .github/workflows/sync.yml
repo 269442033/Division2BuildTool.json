@@ -15,14 +15,16 @@ jobs:
     # - name: Checkout
     #   uses: actions/checkout@v4
 
-    - name: Make Request
-      id: myRequest
-      uses: fjogeleit/http-request-action@v1
-      with:
-        url: 'https://rubenalamina.mx/division/gear.json'
     - name: Response
+      uses: satak/webrequest-action@master
+      with:
+        url: https://rubenalamina.mx/division/gear.json
+        method: GET
+
+    - name: Display
       run: |
-        echo ${{ steps.myRequest.outputs.response }}
+        $output = '${{ steps.Response.outputs.output }}' | ConvertFrom-Json
+        Write-Host "Time from output $($output.time) statusCode $($output.statusCode) data $($output.data)"
 
     # - name: Upload
     #   uses: actions/upload-artifact@v3
