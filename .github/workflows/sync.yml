@@ -25,7 +25,7 @@ jobs:
     - name: Display
       shell: pwsh
       run: |
-        echo ${{ steps.get-request.outputs.data }} > gear.json
+        echo "${{ steps.get-request.outputs.data }}" > gear.json
 
     - name: Upload
       uses: actions/upload-artifact@v3
