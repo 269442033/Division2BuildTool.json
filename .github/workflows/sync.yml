@@ -2,9 +2,9 @@ name: Sync
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '15 * * * 0,1,5,6'
-    - cron: '15 * * * 2,3,4'
+  # schedule:
+  #   - cron: '15 * * * 0,1,5,6'
+  #   - cron: '15 * * * 2,3,4'
   
 jobs:
   sync:
@@ -24,7 +24,7 @@ jobs:
 
     - name: Response
       run: |
-        echo ${{ steps.myRequest.outputs.response }}
+        echo "${{ steps.myRequest.outputs.response }}"
 
     - name: Upload
       uses: actions/upload-artifact@v3
