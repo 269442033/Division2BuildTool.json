@@ -26,7 +26,6 @@ jobs:
       shell: pwsh
       run: |
         $output = '${{ steps.get-request.outputs.output }}' | ConvertFrom-Json
-        Write-Host "$($output.data)"
         $output.data -eq 1
         echo ${{ output.data }} > gear.json
 
