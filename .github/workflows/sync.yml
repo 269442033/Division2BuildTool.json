@@ -15,27 +15,29 @@ jobs:
     # - name: Checkout
     #   uses: actions/checkout@v4
 
-    - name: Response
+    - name: GET request
+      id: get-request
       uses: satak/webrequest-action@master
       with:
         url: https://rubenalamina.mx/division/gear.json
         method: GET
 
     - name: Display
+      shell: pwsh
       run: |
-        $output = '${{ steps.Response.outputs.output }}' | ConvertFrom-Json
-        Write-Host "Time from output $($output.time) statusCode $($output.statusCode) data $($output.data)"
+        $output = '${{ steps.get-request.outputs.output }}' | ConvertFrom-Json
+        Write-Host "$($output.data)"
+        $output.data -eq 1
+        echo ${{ output.data }} > gear.json
 
-    # - name: Upload
-    #   uses: actions/upload-artifact@v3
-    #   with:
-    #     name: pack
-    #     path: ~/*.json
+    - name: Upload
+      uses: actions/upload-artifact@v3
+      with:
+        name: pack
+        path: ~/gear.json
 
-    # - name: Update
-    #   run: |
-    #     git config user.name github-actions
-    #     git config user.email github-actions@github.com
-    #     git add .
-    #     git commit -m "Update"
-    #     git push
+    - name: Update
+      run: |
+        git add gear.json
+        git commit -m "Update"
+        git push
