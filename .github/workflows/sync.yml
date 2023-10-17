@@ -15,29 +15,23 @@ jobs:
     name: Sync
 
     steps:
-    # - name: Checkout
-    #   uses: actions/checkout@v4
+    - name: Checkout
+      uses: actions/checkout@v2
 
-    - name: GET request
-      id: get-request
-      uses: satak/webrequest-action@master
+    - name: Update gear
+      uses: TheLastProject/keep-remote-file-locally-up-to-date-action@v1
       with:
         url: https://rubenalamina.mx/division/gear.json
-        method: GET
+        file_in_repo: gear.json
 
-    - name: Display
-      shell: pwsh
-      run: |
-        echo "${{ steps.get-request.outputs.data }}" > gear.json
-
-    - name: Upload
-      uses: actions/upload-artifact@v3
+    - name: Update weapon
+      uses: TheLastProject/keep-remote-file-locally-up-to-date-action@v1
       with:
-        name: pack
-        path: gear.json
+        url: https://rubenalamina.mx/division/weapons.json
+        file_in_repo: weapon.json
 
-    - name: Update
-      run: |
-        git add gear.json
-        git commit -m "Update"
-        git push
+    - name: Update mod
+      uses: TheLastProject/keep-remote-file-locally-up-to-date-action@v1
+      with:
+        url: https://rubenalamina.mx/division/mods.json
+        file_in_repo: mod.json
