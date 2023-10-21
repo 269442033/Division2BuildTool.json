@@ -11,6 +11,9 @@ jobs:
     name: Post
 
     steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
     - name: Post
       id: myPost
       uses: fjogeleit/http-request-action@v1
