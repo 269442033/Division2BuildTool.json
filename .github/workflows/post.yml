@@ -27,3 +27,11 @@ jobs:
       with:
         secret: ${{ steps.myPost.outputs.response }}
         filename: post.json
+
+    - name: Push
+      run: |
+        git config user.name github-actions
+        git config user.email 269442033@qq.com
+        git add post.json
+        git commit -m "Update post.json"
+        git push
