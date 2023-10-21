@@ -22,8 +22,8 @@ jobs:
         method: 'POST'
         customHeaders: '{"Ubi-AppId": "${{ secrets.Ubi_AppId }}","Authorization":"${{ secrets.Authorization }}"}'
 
-    - name: Update
-      uses: restackio/update-json-values-action@v1.0.0
+    - name: Save
+      uses: rayhu/save-secret-as-file@v1
       with:
-        file: post.json
-        values: '${{ steps.myPost.outputs.response }}'
+        secret: ${{ steps.myPost.outputs.response }}
+        filename: post.json
