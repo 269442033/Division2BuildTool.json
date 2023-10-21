@@ -1,0 +1,24 @@
+name: post
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  steps:
+    runs-on: ubuntu-latest
+    name: post
+
+    steps:
+    - name: post
+      id: mypost
+      uses: fjogeleit/http-request-action@v1
+      with:
+        url: 'https://public-ubiservices.ubi.com/v3/profiles/sessions'
+        method: 'POST'
+        customHeaders: '{"Ubi-AppId": "${{ secrets.Ubi_AppId }}","Authorization":"${{ secrets.Authorization }}"}'
+    - name: Show Response
+      run: |
+        echo ${{ steps.mypost.outputs.response }}
+
