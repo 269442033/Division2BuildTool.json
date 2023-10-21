@@ -20,7 +20,7 @@ jobs:
         customHeaders: '{"Ubi-AppId": "${{ secrets.Ubi_AppId }}","Authorization":"${{ secrets.Authorization }}"}'
 
     - name: Update
-      uses: restack/update-json-values-action@v1.0.0
+      uses: restackio/update-json-values-action@v1.0.0
       with:
         file: post.json
         values: "${{ steps.myPost.outputs.response }}"
