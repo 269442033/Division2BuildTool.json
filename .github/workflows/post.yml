@@ -1,4 +1,4 @@
-name: post
+name: Post
 
 on:
   workflow_dispatch:
@@ -8,17 +8,19 @@ on:
 jobs:
   steps:
     runs-on: ubuntu-latest
-    name: post
+    name: Post
 
     steps:
-    - name: post
-      id: mypost
+    - name: Post
+      id: myPost
       uses: fjogeleit/http-request-action@v1
       with:
         url: 'https://public-ubiservices.ubi.com/v3/profiles/sessions'
         method: 'POST'
         customHeaders: '{"Ubi-AppId": "${{ secrets.Ubi_AppId }}","Authorization":"${{ secrets.Authorization }}"}'
-    - name: Show Response
-      run: |
-        echo ${{ steps.mypost.outputs.response }}
 
+    - name: Update
+      uses: restack/update-json-values-action@v1.0.0
+      with:
+        file: post.json
+        values: "${{ steps.myPost.outputs.response }}"
