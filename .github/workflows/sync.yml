@@ -7,8 +7,8 @@ on:
     - cron: '40 22,23 * * 2'
     - cron: '10 0,1,2,3,4,6,8,10,12,16,20,21,22,23 * * 3'
     - cron: '40 0,1,22,23 * * 3'
-    #- cron: '10 0,1,2,3,4,6,8,10,12,16,20 * * 4'
-    #- cron: '40 0,1 * * 4'
+    - cron: '10 0,1,2,3,4,6,8,10,12,16,20 * * 4'
+    - cron: '40 0,1 * * 4'
 
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Update gear
       uses: TheLastProject/keep-remote-file-locally-up-to-date-action@v1
