@@ -374,5 +374,21 @@
    "level": 40,
    "name": "Trap Electronics Upgrade",
    "attributes": " Trap<br/>5.8% Shock Radius"
+ },
+ {
+   "type": "mod",
+   "rarity": "header-defensive",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "Defensive Protocol: Resilience",
+   "attributes": "16,698 Armor on Kill "
+ },
+ {
+   "type": "mod",
+   "rarity": "header-he",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "Phosphorus Ingredient",
+   "attributes": " Seeker Mine<br/>1 Cluster Mines"
  }
 ]
