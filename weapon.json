@@ -43,7 +43,7 @@
  },
  {
    "type": "weapon",
-   "rarity": "header-exo",
+   "rarity": "header-named",
    "vendor": "Clan",
    "level": 40,
    "name": "Lightning Rod - Custom PF45",
@@ -57,7 +57,7 @@
  },
  {
    "type": "weapon",
-   "rarity": "header-exo",
+   "rarity": "header-he",
    "vendor": "Clan",
    "level": 40,
    "name": "SIG MPX",
@@ -71,7 +71,7 @@
  },
  {
    "type": "weapon",
-   "rarity": "header-exo",
+   "rarity": "header-he",
    "vendor": "Clan",
    "level": 40,
    "name": "X-45 Tactical",
