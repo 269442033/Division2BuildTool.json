@@ -1,6 +1,6 @@
 [
   {
-    "Version": "21.1.0.0",
+    "StableVersion": "21.1.0.0",
     "LatestVersion": "21.1.0.0",
     "Note": null,
     "StartNote": null,
@@ -8,7 +8,7 @@
     "GithubLink": null
   },
   {
-    "Version": "21.1.0.0",
+    "StableVersion": "21.1.0.0",
     "LatestVersion": "21.1.0.0",
     "Note": null,
     "StartNote": null,
@@ -16,7 +16,7 @@
     "GithubLink": null
   },
   {
-    "Version": "21.1.0.0",
+    "StableVersion": "21.1.0.0",
     "LatestVersion": "21.1.0.0",
     "Note": null,
     "StartNote": null,
@@ -24,7 +24,7 @@
     "GithubLink": null
   },
   {
-    "Version": "21.1.0.0",
+    "StableVersion": "21.1.0.0",
     "LatestVersion": "21.1.0.0",
     "Note": null,
     "StartNote": null,
