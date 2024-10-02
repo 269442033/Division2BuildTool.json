@@ -1,33 +1,33 @@
 [
   {
+    "StableVersion": "21.1.0",
+    "LatestVersion": "21.4.0",
+    "Note": "test1",
+    "StartNote": "test2",
+    "LanzouLink": null,
+    "GithubLink": null
+  },
+  {
     "StableVersion": "21.1.0.0",
     "LatestVersion": "21.4.0.0",
-    "Note": "test",
-    "StartNote": "test",
+    "Note": "test3",
+    "StartNote": "test4",
     "LanzouLink": "https://api.hanximeng.com/lanzou/?url=https://wwl.lanzout.com/iwM3b226aubc&type=down",
     "GithubLink": "https://api.hanximeng.com/lanzou/?url=https://wwl.lanzout.com/iwM3b226aubc&type=down"
   },
   {
     "StableVersion": "21.1.0",
     "LatestVersion": "21.1.0",
-    "Note": null,
-    "StartNote": null,
+    "Note": "test5",
+    "StartNote": "test5",
     "LanzouLink": null,
     "GithubLink": null
   },
   {
     "StableVersion": "21.1.0",
     "LatestVersion": "21.1.0",
-    "Note": null,
-    "StartNote": null,
-    "LanzouLink": null,
-    "GithubLink": null
-  },
-  {
-    "StableVersion": "21.1.0",
-    "LatestVersion": "21.1.0",
-    "Note": null,
-    "StartNote": null,
+    "Note": "test5",
+    "StartNote": "test5",
     "LanzouLink": null,
     "GithubLink": null
   }
