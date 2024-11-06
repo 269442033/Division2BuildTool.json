@@ -488,5 +488,61 @@
    "attribute1": "<span class=\"icon-weapons\"></span>10.2% Pistol Damage",
    "attribute2": "<span class=\"icon-weapons\"></span>5% Damage to Armor",
    "attribute3": "-"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-named",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "New Reliable - Black Market RPK-74 E",
+   "dmg": "55,474",
+   "rpm": 650,
+   "mag": 45,
+   "talent": "Perfectly Optimized",
+   "attribute1": "<span class=\"icon-weapons\"></span>11.2% LMG Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>9% Damage Out of Cover",
+   "attribute3": "<span class=\"icon-weapons\"></span>8% Health Damage"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-named",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "Shield Splinterer - F2000",
+   "dmg": "45,132",
+   "rpm": 850,
+   "mag": 30,
+   "talent": "Perfect Optimist",
+   "attribute1": "<span class=\"icon-weapons\"></span>11.9% AR Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>16.5% Health Damage",
+   "attribute3": "<span class=\"icon-weapons\"></span>9% Headshot Damage"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-he",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "M249 B",
+   "dmg": "56,414",
+   "rpm": 550,
+   "mag": 100,
+   "talent": "Breadbasket",
+   "attribute1": "<span class=\"icon-weapons\"></span>12.3% LMG Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>9% Damage Out of Cover",
+   "attribute3": "<span class=\"icon-weapons\"></span>9% Magazine Size"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-he",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "Covert SRS",
+   "dmg": "338,957",
+   "rpm": 60,
+   "mag": 7,
+   "talent": "Future Perfect",
+   "attribute1": "<span class=\"icon-weapons\"></span>12.1% MMR Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>106% Headshot Damage",
+   "attribute3": "<span class=\"icon-weapons\"></span>7% Critical Hit Damage"
  }
 ]
