@@ -374,5 +374,21 @@
    "level": 40,
    "name": "Trap Electronics Upgrade",
    "attributes": " Trap<br/>5.9% Shock Radius"
+ },
+ {
+   "type": "mod",
+   "rarity": "header-defensive",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "Defensive System: Mending",
+   "attributes": "8.6% Blind Deaf Resistance "
+ },
+ {
+   "type": "mod",
+   "rarity": "header-he",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "Chromatics Training",
+   "attributes": " Chem Launcher<br/>6.5% Heal"
  }
 ]
