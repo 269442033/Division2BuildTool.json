@@ -95,7 +95,7 @@
    "talent": "Breadbasket",
    "attribute1": "<span class=\"icon-weapons\"></span>9.5% SMG Damage",
    "attribute2": "<span class=\"icon-weapons\"></span>20.5% Critical Hit Chance",
-   "attribute3": "<span class=\"icon-weapons\"></span>11.4% swa"
+   "attribute3": "<span class=\"icon-weapons\"></span>11.4% Swap Speed"
  },
  {
    "type": "weapon",
@@ -473,6 +473,62 @@
    "talent": "Lucky Shot",
    "attribute1": "<span class=\"icon-weapons\"></span>11.3% Pistol Damage",
    "attribute2": "<span class=\"icon-weapons\"></span>9% Accuracy",
+   "attribute3": "-"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-named",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "Boomstick - Double Barrel Shotgun",
+   "dmg": "620,556",
+   "rpm": 200,
+   "mag": 2,
+   "talent": "Perfect Pumped Up",
+   "attribute1": "<span class=\"icon-weapons\"></span>12.3% Shotgun Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>9% Damage to Armor",
+   "attribute3": "<span class=\"icon-weapons\"></span>7% Health Damage"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-named",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "Shield Splinterer - F2000",
+   "dmg": "45,132",
+   "rpm": 850,
+   "mag": 30,
+   "talent": "Perfect Optimist",
+   "attribute1": "<span class=\"icon-weapons\"></span>14.2% AR Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>15.5% Health Damage",
+   "attribute3": "<span class=\"icon-weapons\"></span>9.5% Magazine Size"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-he",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "MP5-N",
+   "dmg": "51,713",
+   "rpm": 800,
+   "mag": 32,
+   "talent": "Breadbasket",
+   "attribute1": "<span class=\"icon-weapons\"></span>9.5% SMG Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>20.5% Critical Hit Chance",
+   "attribute3": "<span class=\"icon-weapons\"></span>11.4% Swap Speed"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-he",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "Tactical M1911",
+   "dmg": "98,725",
+   "rpm": 310,
+   "mag": 7,
+   "talent": "Breadbasket",
+   "attribute1": "<span class=\"icon-weapons\"></span>10.4% Pistol Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>4.5% Rate of Fire",
    "attribute3": "-"
  }
 ]
