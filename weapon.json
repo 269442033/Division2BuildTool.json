@@ -240,7 +240,7 @@
  {
    "type": "weapon",
    "rarity": "header-named",
-   "vendor": "White House",
+   "vendor": "DZ West",
    "level": 40,
    "name": "Everlasting Gaze - Police Mk17",
    "dmg": "116,120",
@@ -254,7 +254,7 @@
  {
    "type": "weapon",
    "rarity": "header-he",
-   "vendor": "White House",
+   "vendor": "DZ West",
    "level": 40,
    "name": "SASG-12",
    "dmg": "364,812",
@@ -268,7 +268,7 @@
  {
    "type": "weapon",
    "rarity": "header-he",
-   "vendor": "White House",
+   "vendor": "DZ West",
    "level": 40,
    "name": "SOCOM M1A",
    "dmg": "141,036",
