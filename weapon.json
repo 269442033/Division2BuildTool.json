@@ -488,5 +488,61 @@
    "attribute1": "<span class=\"icon-weapons\"></span>12.2% Pistol Damage",
    "attribute2": "<span class=\"icon-weapons\"></span>6.9% Reload Speed",
    "attribute3": "-"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-named",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "Commando - Paratrooper SVD",
+   "dmg": "159,841",
+   "rpm": 260,
+   "mag": 10,
+   "talent": "Perfectly Naked",
+   "attribute1": "<span class=\"icon-weapons\"></span>11.4% MMR Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>101% Headshot Damage",
+   "attribute3": "<span class=\"icon-weapons\"></span>5% Damage to Armor"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-named",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "Shield Splinterer - F2000",
+   "dmg": "45,132",
+   "rpm": 850,
+   "mag": 30,
+   "talent": "Perfect Optimist",
+   "attribute1": "<span class=\"icon-weapons\"></span>11.6% AR Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>15.5% Health Damage",
+   "attribute3": "<span class=\"icon-weapons\"></span>7% Critical Hit Chance"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-he",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "Stoner LAMG",
+   "dmg": "47,952",
+   "rpm": 580,
+   "mag": 200,
+   "talent": "Steady Handed",
+   "attribute1": "<span class=\"icon-weapons\"></span>12.1% LMG Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>10% Damage Out of Cover",
+   "attribute3": "<span class=\"icon-weapons\"></span>5% Damage to Armor"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-he",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "X-45",
+   "dmg": "76,630",
+   "rpm": 400,
+   "mag": 10,
+   "talent": "Sadist",
+   "attribute1": "<span class=\"icon-weapons\"></span>12.1% Pistol Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>8% Critical Hit Chance",
+   "attribute3": "-"
  }
 ]
