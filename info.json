@@ -1,34 +1,34 @@
 [
     {
       "StableVersion": "23.0.0",
-      "LatestVersion": "23.0.0",
+      "LatestVersion": "23.2.0",
       "Note": "",
       "StartNote": "",
       "LanzouLink": "https://api.hanximeng.com/lanzou/?url=https://wwbb.lanzout.com/ileQi2p0csve&pwd=aiw2&type=down",
-      "GithubLink": "https://github.moeyy.xyz/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/23.0.0/Division2BuildTool_android.apk"
+      "GithubLink": "https://github.moeyy.xyz/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/23.2.0/Division2BuildTool_android.apk"
     },
     {
       "StableVersion": "23.0.0",
-      "LatestVersion": "23.0.0",
+      "LatestVersion": "23.2.0",
       "Note": "",
       "StartNote": "",
       "LanzouLink": "https://api.hanximeng.com/lanzou/?url=https://wwbb.lanzout.com/iIfpb2p0cxpi&type=down",
-      "GithubLink": "https://github.moeyy.xyz/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/23.0.0/Division2BuildTool_windows.zip"
+      "GithubLink": "https://github.moeyy.xyz/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/23.2.0/Division2BuildTool_windows.zip"
     },
     {
       "StableVersion": "23.0.0",
-      "LatestVersion": "23.0.0",
+      "LatestVersion": "23.2.0",
       "Note": "",
       "StartNote": "",
       "LanzouLink": "https://api.hanximeng.com/lanzou/?url=https://wwbb.lanzout.com/iX8442p0cqja&pwd=7cor&type=down",
-      "GithubLink": "https://github.moeyy.xyz/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/23.0.0/Division2BuildTool_ios.ipa"
+      "GithubLink": "https://github.moeyy.xyz/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/23.2.0/Division2BuildTool_ios.ipa"
     },
     {
       "StableVersion": "23.0.0",
-      "LatestVersion": "23.0.0",
+      "LatestVersion": "23.2.0",
       "Note": "",
       "StartNote": "",
       "LanzouLink": "https://api.hanximeng.com/lanzou/?url=https://wwbb.lanzout.com/i23hw2p0cp7c&pwd=gr1a&type=down",
-      "GithubLink": "https://github.moeyy.xyz/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/23.0.0/Division2BuildTool_mac.pkg"
+      "GithubLink": "https://github.moeyy.xyz/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/23.2.0/Division2BuildTool_mac.pkg"
     }
   ]
