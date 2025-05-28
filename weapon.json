@@ -474,5 +474,61 @@
    "attribute1": "<span class=\"icon-weapons\"></span>10.1% Pistol Damage",
    "attribute2": "<span class=\"icon-weapons\"></span>7% Damage Out of Cover",
    "attribute3": "-"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-he",
+   "vendor": "The Bridge",
+   "level": 40,
+   "name": "G36 C",
+   "dmg": "48,892",
+   "rpm": 750,
+   "mag": 30,
+   "talent": "Close & Personal",
+   "attribute1": "<span class=\"icon-weapons\"></span>11% AR Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>15% Health Damage",
+   "attribute3": "<span class=\"icon-weapons\"></span>9% Headshot Damage"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-he",
+   "vendor": "The Bridge",
+   "level": 40,
+   "name": "Black Market M60 E6",
+   "dmg": "61,116",
+   "rpm": 500,
+   "mag": 100,
+   "talent": "Future Perfect",
+   "attribute1": "<span class=\"icon-weapons\"></span>9.9% LMG Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>9% Damage Out of Cover",
+   "attribute3": "<span class=\"icon-weapons\"></span>8.5% Magazine Size"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-he",
+   "vendor": "The Bridge",
+   "level": 40,
+   "name": "Tactical SASG-12 K",
+   "dmg": "364,812",
+   "rpm": 180,
+   "mag": 7,
+   "talent": "Thunder Strike",
+   "attribute1": "<span class=\"icon-weapons\"></span>11.2% Shotgun Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>9% Damage to Armor",
+   "attribute3": "<span class=\"icon-weapons\"></span>9% Headshot Damage"
+ },
+ {
+   "type": "weapon",
+   "rarity": "header-he",
+   "vendor": "The Bridge",
+   "level": 40,
+   "name": "Px4 Storm Type F",
+   "dmg": "79,920",
+   "rpm": 380,
+   "mag": 17,
+   "talent": "Spike",
+   "attribute1": "<span class=\"icon-weapons\"></span>11.2% Pistol Damage",
+   "attribute2": "<span class=\"icon-weapons\"></span>12.5% Swap Speed",
+   "attribute3": "-"
  }
 ]
