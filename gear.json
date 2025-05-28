@@ -516,5 +516,47 @@
    "attributes": "<span class=\"icon-defensive\"></span>9.3% Hazard Protection <br/><span class=\"icon-utility\"></span>16.7% Repair Skills",
    "talents": "-",
    "mods": "Utility"
+ },
+ {
+   "type": "gear",
+   "rarity": "header-he",
+   "vendor": "The Bridge",
+   "level": 40,
+   "name": "Harnesk Armor",
+   "brand": "Fenris Group AB",
+   "slot": "Chest",
+   "armor": "158k",
+   "core": "<span class=\"icon-offensive\"></span>10.0% Weapon Damage",
+   "attributes": "<span class=\"icon-utility\"></span>8.1% Status Effects <br/><span class=\"icon-defensive\"></span>3,940 Armor Regeneration",
+   "talents": "<span class=\"icon-active\"></span>Tamper Proof",
+   "mods": "Offensive"
+ },
+ {
+   "type": "gear",
+   "rarity": "header-he",
+   "vendor": "The Bridge",
+   "level": 40,
+   "name": "EXO.K1 Kneepad",
+   "brand": "5.11 Tactical",
+   "slot": "Kneepads",
+   "armor": "99k",
+   "core": "<span class=\"icon-defensive\"></span>126,541 Armor",
+   "attributes": "<span class=\"icon-utility\"></span>8.3% Status Effects <br/><span class=\"icon-offensive\"></span>7.1% Headshot Damage",
+   "talents": "-",
+   "mods": "-"
+ },
+ {
+   "type": "gear",
+   "rarity": "header-he",
+   "vendor": "The Bridge",
+   "level": 40,
+   "name": "Combat Mask Cete",
+   "brand": "Badger Tuff",
+   "slot": "Mask",
+   "armor": "80k",
+   "core": "<span class=\"icon-defensive\"></span>105,406 Armor",
+   "attributes": "<span class=\"icon-defensive\"></span>8.4% Hazard Protection <br/><span class=\"icon-offensive\"></span>8.0% Headshot Damage",
+   "talents": "-",
+   "mods": "Offensive"
  }
 ]
