@@ -4,7 +4,7 @@
       "LatestVersion": "24.0.0",
       "Note": "",
       "StartNote": "",
-      "LanzouLink": "https://api.hanximeng.com/lanzou/?url=https://wwbb.lanzout.com/iz06q2xnetwj&pwd=bfbz&type=down",
+      "LanzouLink": null,
       "GithubLink": "https://github.moeyy.xyz/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/24.0.0/Division2BuildTool_android.apk"
     },
     {
@@ -12,7 +12,7 @@
       "LatestVersion": "24.0.0",
       "Note": "",
       "StartNote": "",
-      "LanzouLink": "https://api.hanximeng.com/lanzou/?url=https://wwbb.lanzout.com/iu0Qw2xnexab&type=down",
+      "LanzouLink": null,
       "GithubLink": "https://github.moeyy.xyz/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/24.0.0/Division2BuildTool_windows.zip"
     },
     {
@@ -20,7 +20,7 @@
       "LatestVersion": "24.0.0",
       "Note": "",
       "StartNote": "",
-      "LanzouLink": "https://api.hanximeng.com/lanzou/?url=https://wwbb.lanzout.com/iNoFd2xnes7i&pwd=23m0&type=down",
+      "LanzouLink": null,
       "GithubLink": "https://github.moeyy.xyz/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/24.0.0/Division2BuildTool_ios.ipa"
     },
     {
@@ -28,7 +28,7 @@
       "LatestVersion": "24.0.0",
       "Note": "",
       "StartNote": "",
-      "LanzouLink": "https://api.hanximeng.com/lanzou/?url=https://wwbb.lanzout.com/is3JA2xnez0d&pwd=azbc&type=down",
+      "LanzouLink": null,
       "GithubLink": "https://github.moeyy.xyz/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/24.0.0/Division2BuildTool_mac.pkg"
     }
   ]
