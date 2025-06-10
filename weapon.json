@@ -310,7 +310,7 @@
  {
    "type": "weapon",
    "rarity": "header-named",
-   "vendor": "White House",
+   "vendor": "DZ West",
    "level": 40,
    "name": "The Virginian - 1886",
    "dmg": "342,247",
@@ -324,7 +324,7 @@
  {
    "type": "weapon",
    "rarity": "header-he",
-   "vendor": "White House",
+   "vendor": "DZ West",
    "level": 40,
    "name": "SPAS-12",
    "dmg": "646,883",
@@ -338,7 +338,7 @@
  {
    "type": "weapon",
    "rarity": "header-he",
-   "vendor": "White House",
+   "vendor": "DZ West",
    "level": 40,
    "name": "SIG 716 CQB",
    "dmg": "99,665",
