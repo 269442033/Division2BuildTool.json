@@ -1,34 +1,34 @@
 [
     {
-      "StableVersion": "25.0.0",
-      "LatestVersion": "25.0.0",
+      "StableVersion": "25.3.0",
+      "LatestVersion": "25.3.0",
       "Note": "",
       "StartNote": "",
       "LanzouLink": null,
-      "GithubLink": "https://proxy.pipers.cn/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/25.0.0/Division2BuildTool_android.apk"
+      "GithubLink": "https://proxy.pipers.cn/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/25.3.0/Division2BuildTool_android.apk"
     },
     {
-      "StableVersion": "25.0.0",
-      "LatestVersion": "25.0.0",
+      "StableVersion": "25.3.0",
+      "LatestVersion": "25.3.0",
       "Note": "",
       "StartNote": "",
       "LanzouLink": null,
-      "GithubLink": "https://proxy.pipers.cn/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/25.0.0/Division2BuildTool_windows.zip"
+      "GithubLink": "https://proxy.pipers.cn/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/25.3.0/Division2BuildTool_windows.zip"
     },
     {
-      "StableVersion": "25.0.0",
-      "LatestVersion": "25.0.0",
+      "StableVersion": "25.3.0",
+      "LatestVersion": "25.3.0",
       "Note": "",
       "StartNote": "",
       "LanzouLink": null,
-      "GithubLink": "https://proxy.pipers.cn/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/25.0.0/Division2BuildTool_ios.ipa"
+      "GithubLink": "https://proxy.pipers.cn/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/25.3.0/Division2BuildTool_ios.ipa"
     },
     {
-      "StableVersion": "25.0.0",
-      "LatestVersion": "25.0.0",
+      "StableVersion": "25.3.0",
+      "LatestVersion": "25.3.0",
       "Note": "",
       "StartNote": "",
       "LanzouLink": null,
-      "GithubLink": "https://proxy.pipers.cn/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/25.0.0/Division2BuildTool_mac.pkg"
+      "GithubLink": "https://proxy.pipers.cn/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/25.3.0/Division2BuildTool_mac.pkg"
     }
   ]
