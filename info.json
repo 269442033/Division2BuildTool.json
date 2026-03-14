@@ -5,7 +5,7 @@
       "Note": "",
       "StartNote": "",
       "LanzouLink": null,
-      "GithubLink": null,
+      "GithubLink": "https://gh.llkk.cc/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/26.4.0/Division2BuildTool_android.apk",
     },
     {
       "StableVersion": "26.4.0",
@@ -13,7 +13,7 @@
       "Note": "",
       "StartNote": "",
       "LanzouLink": null,
-      "GithubLink": null,
+      "GithubLink": "https://gh.llkk.cc/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/26.4.0/Division2BuildTool_windows.zip",
     },
     {
       "StableVersion": "26.4.0",
@@ -21,7 +21,7 @@
       "Note": "",
       "StartNote": "",
       "LanzouLink": null,
-      "GithubLink": null,
+      "GithubLink": "https://gh.llkk.cc/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/26.4.0/Division2BuildTool_ios.ipa",
     },
     {
       "StableVersion": "26.4.0",
@@ -29,6 +29,6 @@
       "Note": "",
       "StartNote": "",
       "LanzouLink": null,
-      "GithubLink": null,
+      "GithubLink": "https://gh.llkk.cc/https://github.com/division2buildtool/division2buildtool.github.io/releases/download/26.4.0/Division2BuildTool_mac.pkg",
     }
   ]
