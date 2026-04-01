@@ -25,15 +25,21 @@ jobs:
       with:
         url: https://rubenalamina.mx/division/gear.json
         file_in_repo: gear.json
+        git_user: github-actions
+        git_email: actions@github.com
 
     - name: Update weapon
       uses: TheLastProject/keep-remote-file-locally-up-to-date-action@v1
       with:
         url: https://rubenalamina.mx/division/weapons.json
         file_in_repo: weapon.json
+        git_user: github-actions
+        git_email: actions@github.com
 
     - name: Update mod
       uses: TheLastProject/keep-remote-file-locally-up-to-date-action@v1
       with:
         url: https://rubenalamina.mx/division/mods.json
         file_in_repo: mod.json
+        git_user: github-actions
+        git_email: actions@github.com
