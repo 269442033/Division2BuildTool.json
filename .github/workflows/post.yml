@@ -45,10 +45,10 @@ jobs:
       uses: actions/github-script@v7
       with:
         script: |
-          const workflowPath = '${{ github.workflow_ref }}'.split('/').pop();
+          const workflow_id = '${{ github.workflow }}';
           await github.rest.actions.disableWorkflow({
             owner: context.repo.owner,
             repo: context.repo.repo,
-            workflow_id: workflowPath
-          });            
-          console.log(`Disable workflow：${workflowPath}`);
+            workflow_id: workflow_id
+          });
+          console.log('✅ 禁用成功！该工作流已停止运行');
