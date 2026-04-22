@@ -414,5 +414,21 @@
    "level": 40,
    "name": "Improved Sticky Payload",
    "attributes": " Sticky Bomb<br/>4.8% Blast Radius"
+ },
+ {
+   "type": "mod",
+   "rarity": "header-defensive",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "Defensive Protocol: Stamina",
+   "attributes": "8.8% Bleed Resistance "
+ },
+ {
+   "type": "mod",
+   "rarity": "header-he",
+   "vendor": "Cassie",
+   "level": 40,
+   "name": "Feed Strip",
+   "attributes": " Chem Launcher<br/>6.6% Burn Strength"
  }
 ]
